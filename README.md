@@ -42,16 +42,23 @@ The report comprises of two pages .
 You can interact with the report [Here]()
 
 
-Periodic Report 
-![](1 - Periodic Report.JPG)
+Periodic and Transaction Report 
+
+![](PeriodicReport.JPG)
+
+Feature:
+There are slicers fo filtering the year , Region , Category.
+
+Advance Analysis
+![](AdvanceAnalysis.JPG)
 
 Feature :
 Ask your own question is a button that takes you to another page where you can type any question.
 The key influencer and top segment shows the distribution of category and subcategory by sales.
 There is filter for year and category on the page.
 
-Sales and Transaction Report
-![](
+Location Analysis
+![](LocationReport.jpg)
 Feature:
 There are slicers fo filtering the year , Region , Category.
 
